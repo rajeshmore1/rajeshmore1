@@ -10,8 +10,12 @@
 - Mentor at AlmaBetter.
 - TensorFlow Developer Certificated
 
-Things I am passionate about
+**Things I am passionate about
+**
 📈 Machine Learning
+
 🤖 Deep Learning
+
 🧠 Neural Networks- Tensorflow & Keras
+
 👁️ Computer Vision
