@@ -22,7 +22,9 @@
 
 ## Rajesh's Total Stats:
 
-![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshmore1&count_private=true)
-
-
 ![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshmore1&show_icons=true&theme=radical)
+
+## Visitor'ss Count:
+
+![Visitor Count](https://profile-counter.glitch.me/rajeshmore1/count.svg)
+
