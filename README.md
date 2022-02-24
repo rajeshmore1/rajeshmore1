@@ -19,3 +19,6 @@
 🧠 Neural Networks- Tensorflow & Keras
 
 👁️ Computer Vision
+
+[![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshmore1)](https://github.com/rajeshmore1/github-readme-stats)
+
