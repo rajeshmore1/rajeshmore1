@@ -2,7 +2,7 @@
 
 - I'm Rajesh More, a Machine Learning and Deep Learning Engineer.
 - 🔭 I’m currently working on Data Science, Machine Learning projects.
-- 🌱 I’m currently learning MLOps, Recommender System, PySpark and Databricks
+- 🌱 I’m currently learning MLOps, Advanced NLP, PySpark and Databricks.
 
 - Senior Data Scientist at Data Axle.
 - B.E. Mechanical Engineering from COEA and M.Sc. Mathematics from Kalinga University.
