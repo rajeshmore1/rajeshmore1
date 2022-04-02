@@ -2,9 +2,9 @@
 
 - I'm Rajesh More, a Machine Learning and Deep Learning Engineer.
 - 🔭 I’m currently working on Data Science, Machine Learning projects.
-- 🌱 I’m currently learning MLOps, Advance NLP(Chatbot), PySpark and Databricks.
+- 🌱 I’m currently learning MLOps, Recommender System, Advance NLP(Chatbot), PySpark and Databricks.
 
-- Data Scientist at EPAM.
+- Data Scientist at <EPAM>.
 - B.E. Mechanical Engineering from COEA and M.Sc. Mathematics from Kalinga University.
 - DBA(Doctorate Of Business Administration) Candidate of Swiss School Of Business Administration, Geneva.
 - Mentor at AlmaBetter.
