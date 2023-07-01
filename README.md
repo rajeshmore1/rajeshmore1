@@ -8,6 +8,8 @@
 - B.E. Mechanical Engineering from COEA and M.Sc. Mathematics from Kalinga University.
 - DBA(Doctorate Of Business Administration) Candidate of Swiss School Of Business Administration, Geneva.
 - Mentor at AlmaBetter.
+- Mentor at DeccanAI
+- Omdena Pune Chapter Lead
 - TensorFlow Developer Certificated
 
 ## Things I am passionate about
