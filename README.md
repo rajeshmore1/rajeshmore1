@@ -2,13 +2,13 @@
 
 - I'm Rajesh More, a Machine Learning and Deep Learning Engineer.
 - 🔭 I’m currently working on Data Science, Machine Learning projects.
-- 🌱 I’m currently learning MLOps, Recommender System, Advance NLP(Chatbot), PySpark and Databricks.
+- 🌱 I’m currently learning GenAI, MLOps, Recommender System, Advance NLP(Chatbot) and GCP.
 
-- Senior Data Scientist at Data Axle.
+- Senior AI/ML Engineer at Cloudwerx.
 - B.E. Mechanical Engineering from COEA and M.Sc. Mathematics from Kalinga University.
 - DBA(Doctorate Of Business Administration) Candidate of Swiss School Of Business Administration, Geneva.
 - Mentor at AlmaBetter.
-- Mentor at DeccanAI
+- Mentor at DeccanAI.
 - Omdena Pune Chapter Lead
 - TensorFlow Developer Certificated
 
@@ -16,11 +16,12 @@
 
 📈 Machine Learning
 
-🤖 Deep Learning
+🤖 Deep Learning and Generative AI
 
 🧠 Neural Networks- Tensorflow & Keras
 
 👁️ Computer Vision
+
 
 ## Rajesh's Total Stats:
 
