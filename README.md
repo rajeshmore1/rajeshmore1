@@ -1,27 +1,29 @@
 ### Hi there 👋
 
-- I'm Dr. Rajesh More, a Machine Learning and Deep Learning Engineer.
+- I'm Dr. Rajesh More, a Machine Learning and Full Stack AI Engineer. (MERN+DS+AI)
 - 🔭 I’m currently working on Data Science and Machine Learning projects.
-- 🌱 I’m currently learning GenAI, MLOps, Recommender System, Advance NLP and GCP.
+- 🌱 I’m currently learning Full Stack -AI, RAGOPs, Agentic AI.
 
-- Senior AI/ML Engineer at Cloudwerx.
+- Senior Technical Architect, AIML at Cloudwerx.
 - DBA(Doctorate Of Business Administration) From Swiss School Of Business Management, Geneva.
-- M. Tech (AI & DS) From IIT-P
+- M. Tech (AI & DSE) From IIT-P
 - B.E. Mechanical Engineering from COEA and M.Sc. Mathematics from Kalinga University.
 - Mentor at AlmaBetter.
 - Mentor at DeccanAI.
 - Omdena Pune Chapter Lead
-- TensorFlow Developer Certificated
+- TensorFlow Developer Certificated, GCP Certified ML Engineer, GCP Certified Cloud Architect and GCP Certified Associate Cloud Engineer.
 
 ## Things I am passionate about
 
 📈 Machine Learning
 
-🤖 Deep Learning and Generative AI
+🤖 Deep Learning, Generative AI and Agentic AI
 
 🧠 Neural Networks- Tensorflow & Keras, PyTorch
 
 👁️ Computer Vision
+
+📈 Full Stack Development using MERN stack.
 
 
 ## Rajesh's Total Stats:
